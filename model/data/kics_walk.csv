@@ -1,0 +1,50 @@
+company,period,factor,value_pp,source_url,level
+삼성화재,2024.12->2025.03,거시지표(금리/주가 변동),+1.5,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1Q 경영실적 PDF p.14 'K-ICS 비율 변동요인'; mirror https://file.alphasquare.co.kr/media/pdfs/company-ir/20250514삼성화재해상보험_2025_회계연도_1분기_경영실적_발표.pdf],verified_IR
+삼성화재,2024.12->2025.03,제도변경(부채평가할인율 단계적 현실화 등),-1.1,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1Q PDF p.14],verified_IR
+삼성화재,2024.12->2025.03,경상요인(실적 변동),+1.7,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1Q PDF p.14],verified_IR
+삼성화재,2024.12->2025.03,TOTAL (264.5->266.6),+2.1,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1Q PDF p.14],verified_IR
+삼성화재,2024.12->2025.06,거시지표(금리/주가 변동),+5.5,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1H PDF '(KOR) SFMI FY25 1H Business Results.pdf' p.14],verified_IR
+삼성화재,2024.12->2025.06,제도변경(감독원 제공 경제적 가정; 레버리지펀드 완화 등),+0.9,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1H PDF p.14],verified_IR
+삼성화재,2024.12->2025.06,경상요인(실적 변동),+3.6,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1H PDF p.14],verified_IR
+삼성화재,2024.12->2025.06,TOTAL (264.5->274.5),+10.0,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1H PDF p.14],verified_IR
+삼성화재,2024.12->2025.09,거시지표(금리/주가 변동),+9.9,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 3Q PDF p.14],verified_IR
+삼성화재,2024.12->2025.09,제도변경(감독원 제공 경제적 가정; 레버리지펀드 완화 등),+0.9,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 3Q PDF p.14],verified_IR
+삼성화재,2024.12->2025.09,실적 증가; 대체투자 확대,+0.6,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 3Q PDF p.14],verified_IR
+삼성화재,2024.12->2025.09,TOTAL (264.5->275.9),+11.4,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 3Q PDF p.14],verified_IR
+삼성화재,2024.12->2025.12,거시지표(금리/주가 변동),+12,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 결산 PDF '(KOR) SFMI FY25 4Q Business Results.pdf' p.13; integers as printed],verified_IR
+삼성화재,2024.12->2025.12,제도변경(감독원 제공 경제적 가정; 레버리지펀드 완화 등),+1,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 결산 PDF p.13],verified_IR
+삼성화재,2024.12->2025.12,실적; 지분투자; 주주배당,-14,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 결산 PDF p.13],verified_IR
+삼성화재,2024.12->2025.12,TOTAL (264.5->262.9),-1.6,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 결산 PDF p.13],verified_IR
+삼성화재,2025.12->2026.03,거시지표(금리/주가 변동 등),0,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1Q PDF '(KOR) SFMI FY26 1Q Business Results_F.pdf' p.8],verified_IR
+삼성화재,2025.12->2026.03,제도변경(실손 리스크 산출기준 변경 '25.12 감독원 안내; 감독원 제공 경제적 가정 등),+7.6,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1Q PDF p.8],verified_IR
+삼성화재,2025.12->2026.03,경상요인(실적 변동 등),-0.3,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1Q PDF p.8],verified_IR
+삼성화재,2025.12->2026.03,TOTAL (262.9->270.1),+7.2,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1Q PDF p.8; components sum +7.3 vs total +7.2 (rounding)],verified_IR
+삼성화재,2025.12->2026.06,거시지표(금리/주가/환율 변동 등),+14.3,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1H PDF '(KOR) SFMI FY26 1H Business Results_F.pdf' p.8],verified_IR
+삼성화재,2025.12->2026.06,제도변경(실손 리스크 산출기준 변경; 계리적 가정 G/L; 감독원 제공 경제적 가정 등),+3.2,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1H PDF p.8],verified_IR
+삼성화재,2025.12->2026.06,경상요인(실적 변동 등),+2.4,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1H PDF p.8],verified_IR
+삼성화재,2025.12->2026.06,TOTAL (262.9->282.8),+19.9,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1H PDF p.8],verified_IR
+삼성화재,sens@2024.12,KTB +100bp,-11.4,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1Q PDF p.14 민감도],verified_IR
+삼성화재,sens@2024.12,KTB -100bp,+5.9,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1Q PDF p.14],verified_IR
+삼성화재,sens@2024.12,삼성전자 +1000원,+0.3,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1Q PDF p.14],verified_IR
+삼성화재,sens@2025.03,KTB +100bp,-9.3,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1H PDF p.14],verified_IR
+삼성화재,sens@2025.03,KTB -100bp,+0.9,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1H PDF p.14],verified_IR
+삼성화재,sens@2025.03,삼성전자 +1000원,+0.3,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 1H PDF p.14],verified_IR
+삼성화재,sens@2025.06,KTB +100bp,-9.7,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 3Q PDF p.14],verified_IR
+삼성화재,sens@2025.06,KTB -100bp,+1.6,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 3Q PDF p.14],verified_IR
+삼성화재,sens@2025.06,삼성전자 +10000원,+2.7,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 3Q PDF p.14],verified_IR
+삼성화재,sens@2025.09,KTB +100bp,-9.9,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 결산 PDF p.13],verified_IR
+삼성화재,sens@2025.09,KTB -100bp,+3.3,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 결산 PDF p.13],verified_IR
+삼성화재,sens@2025.09,삼성전자 +10000원,+2.1,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY25 결산 PDF p.13],verified_IR
+삼성화재,sens@2025.12,KTB +100bp,-9.3,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1Q PDF p.8],verified_IR
+삼성화재,sens@2025.12,KTB -100bp,+6.2,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1Q PDF p.8],verified_IR
+삼성화재,sens@2025.12,삼성전자 +10000원,+1.2,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1Q PDF p.8],verified_IR
+삼성화재,sens@2026.06 (KTB10Y 4.07%; SEC 33.4만원),KTB +100bp,-7.5,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1H PDF p.8],verified_IR
+삼성화재,sens@2026.06 (KTB10Y 4.07%; SEC 33.4만원),KTB -100bp,+7.4,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1H PDF p.8],verified_IR
+삼성화재,sens@2026.06 (KTB10Y 4.07%; SEC 33.4만원),삼성전자 +10000원,+0.2,https://www.samsungfire.com/vh/page/VH.HPMK0201.do [FY26 1H PDF p.8; 'sensitivity varies with price level'],verified_IR
+DB손해보험,2025.03->2025.06(e),TOTAL only (204.7->213.3; AC 20.0->20.9조; RC 9.8->9.8조) - no factor walk disclosed,+8.6,https://file.alphasquare.co.kr/media/pdfs/company-ir/20250814DB손해보험_2025년_상반기_경영실적_발표.pdf [p.9 K-ICS 현황(연결); mirror of IR deck],verified_IR_mirror
+DB손해보험,2026.03->2026.06(e),TOTAL only (232.1->204.3; AC 22.9->23.5조; RC 9.9->11.5조) - no factor walk disclosed,-27.8,https://file.irgo.co.kr/data/BOARD/ATTACH_PDF/G99U7QHNCK3JDT26YHRXMWS8BM9DHGQ32026813171913.pdf [DB 2026 상반기 IR p.9],verified_IR_mirror
+DB손해보험,2026.03->2026.06,Fortegra 인수 영향 (conf call as reported by press),[미확인] ~-23,news via search (ibtomato/dealsite; unit printed as '%'),press_unverified
+DB손해보험,sens@2026.06 (KTB10Y 4.07%; 개별),KTB +100bp / +50bp / -50bp / -100bp,-7.2 / -3.5 / +2.9 / +5.0,https://file.irgo.co.kr/data/BOARD/ATTACH_PDF/G99U7QHNCK3JDT26YHRXMWS8BM9DHGQ32026813171913.pdf [p.9 금리변동 영향],verified_IR_mirror
+현대해상,2025.12->2026.06,TOTAL only (190.1->209.0) - no factor walk disclosed,+18.9,https://file.irgo.co.kr/data/BOARD/ATTACH_PDF/T65PAJRMPGXDPPW2ADK_TWSN4EFGCGXC42026814151459.pdf [2026 상반기 IR p.3/p.10; levels 3Q25 179.8 / 4Q25 190.1 / 1Q26 207.2 / 2Q26 209.0],verified_IR_mirror
+현대해상,sens@2026.06,KTB +50bp / -50bp,+0.7 / +0.3,https://file.irgo.co.kr/data/BOARD/ATTACH_PDF/T65PAJRMPGXDPPW2ADK_TWSN4EFGCGXC42026814151459.pdf [p.10 금리 변동시 재무 영향],verified_IR_mirror
+KB손해보험,2024.12-2026.06,K-ICS walk,[미확인],not searched (KB금융 group IR not checked),unconfirmed

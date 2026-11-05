@@ -1,0 +1,368 @@
+company,date,item,value,unit,source_url,source_detail,level
+DB손해보험,2026-06-30,가용자본(지급여력금액),235232.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,기본자본,110440.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,보완자본,124792.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,해약환급금 부족분 상당액 중 해약환급금 상당액 초과분(보완자본),102400.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.17 (10239987백만원),원문
+DB손해보험,2026-06-30,요구자본(지급여력기준금액),115099.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,기본요구자본,150923.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,요구자본-생명장기손해보험위험,100935.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,요구자본-일반손해보험위험,28916.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16 (포테그라 인수로 1Q 15211→28916),원문
+DB손해보험,2026-06-30,요구자본-시장위험,44370.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,요구자본-신용위험,32035.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,요구자본-운영위험,10601.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,분산효과,-65934.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16 (원문 표기 65934; 차감항목),원문
+DB손해보험,2026-06-30,법인세조정액,-37181.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16 (원문 표기 37181; 차감항목),원문
+DB손해보험,2026-06-30,기타요구자본,1357.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.16,원문
+DB손해보험,2026-06-30,민감도: 금리 +100bp → K-ICS,-7.46,%p,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.46 (196.91%; 가용 226544/요구 115049 억원),원문
+DB손해보험,2026-06-30,민감도: 금리 +50bp → K-ICS,-3.93,%p,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.46 (200.44%; 가용 230562/요구 115026),원문
+DB손해보험,2026-06-30,민감도: 금리 -50bp → K-ICS,4.21,%p,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.46 (208.58%; 가용 239349/요구 114752),원문
+DB손해보험,2026-06-30,민감도: 금리 -100bp → K-ICS,7.5,%p,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.46 (211.87%; 가용 241682/요구 114072),원문
+DB손해보험,2026-06-30,신계약 CSM(1H),12000.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.6 서술 '신계약 1.2조원' (반올림),원문
+DB손해보험,2026-06-30,운용자산,562000.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.6 서술 '운용자산 56.2조원',원문
+하나손해보험,2026-06-30,가용자본(지급여력금액),7114.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,기본자본,1049.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,보완자본,6065.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표 (기본자본 자본증권 인정한도 초과분 재분류 6065),원문
+하나손해보험,2026-06-30,요구자본(지급여력기준금액),4677.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,기본요구자본,4677.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,분산효과,-1495.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표 (차감항목; 부호 부여),원문
+하나손해보험,2026-06-30,요구자본-생명장기손해보험위험,2444.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,요구자본-일반손해보험위험,824.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,요구자본-시장위험,905.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,요구자본-신용위험,544.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,요구자본-운영위험,1455.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표,원문
+하나손해보험,2026-06-30,법인세조정액,0.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.18~19 '경과조치 적용 전 지급여력비율 세부' 표 (결손 상태로 0),원문
+하나손해보험,2026-06-30,생명장기 하위위험-사망,63.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.20 위험액 표 6258백만원,원문
+하나손해보험,2026-06-30,생명장기 하위위험-장해·질병,1319.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.20 131871백만원,원문
+하나손해보험,2026-06-30,생명장기 하위위험-장기재물·기타,70.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.20 6994백만원,원문
+하나손해보험,2026-06-30,생명장기 하위위험-해지,1226.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.20 122588백만원,원문
+하나손해보험,2026-06-30,생명장기 하위위험-사업비,760.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.21 76044백만원,원문
+하나손해보험,2026-06-30,생명장기 대재해위험액,51.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) p.21 5085백만원,원문
+하나손해보험,2026-06-30,시장 하위위험-금리위험액,486.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 금리위험액 Ⅳ 48565백만원 (직전반기 30358),원문
+하나손해보험,2026-06-30,시장 하위위험-주식위험액,640.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 주식위험액 Ⅲ.합계 64041백만원,원문
+하나손해보험,2026-06-30,시장 하위위험-부동산위험액,26.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 부동산위험액 2642백만원,원문
+하나손해보험,2026-06-30,시장 하위위험-외환위험액,50.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 외환위험액 계 5048백만원,원문
+하나손해보험,2026-06-30,민감도: 금리 +50bp → K-ICS,-3.8,%p,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 6-8 위험 민감도 본문,원문
+하나손해보험,2026-06-30,민감도: 금리 -50bp → K-ICS,2.35,%p,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 6-8 본문,원문
+하나손해보험,2026-06-30,민감도: 금리 +100bp → K-ICS,-9.25,%p,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 6-8 본문,원문
+하나손해보험,2026-06-30,민감도: 금리 -100bp → K-ICS,3.11,%p,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 6-8 본문,원문
+하나손해보험,2026-06-30,신계약 CSM(1H),681.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 2-2 서술,원문
+하나손해보험,2026-06-30,운용자산,26483.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 2-2 서술 (채권 13925억 등),원문
+현대해상,2026-06-30,기본자본 K-ICS 비율,83.8,%,https://file.alphasquare.co.kr/media/pdfs/company-ir/20260814%ED%98%84%EB%8C%80%ED%95%B4%EC%83%81_2026%EB%85%84_%EC%83%81%EB%B0%98%EA%B8%B0_%EA%B2%BD%EC%98%81%EC%8B%A4%EC%A0%81_%EB%B0%9C%ED%91%9C.pdf,현대해상 2026년 상반기 경영실적 발표(IR; 제3자 미러 호스팅) p.10 (해약환급금준비금 100% 인정시 95.0%),IR
+현대해상,2026-06-30,민감도: 금리 +50bp → K-ICS,0.7,%p,https://file.alphasquare.co.kr/media/pdfs/company-ir/20260814%ED%98%84%EB%8C%80%ED%95%B4%EC%83%81_2026%EB%85%84_%EC%83%81%EB%B0%98%EA%B8%B0_%EA%B2%BD%EC%98%81%EC%8B%A4%EC%A0%81_%EB%B0%9C%ED%91%9C.pdf,현대해상 2026년 상반기 경영실적 발표(IR; 제3자 미러 호스팅) p.10 (가용자본 세후 -0.11조; 자산 -1.98조/부채 -1.86조; PAP 기준),IR
+현대해상,2026-06-30,민감도: 금리 -50bp → K-ICS,0.3,%p,https://file.alphasquare.co.kr/media/pdfs/company-ir/20260814%ED%98%84%EB%8C%80%ED%95%B4%EC%83%81_2026%EB%85%84_%EC%83%81%EB%B0%98%EA%B8%B0_%EA%B2%BD%EC%98%81%EC%8B%A4%EC%A0%81_%EB%B0%9C%ED%91%9C.pdf,현대해상 2026년 상반기 경영실적 발표(IR; 제3자 미러 호스팅) p.10 (가용자본 세후 +0.08조; 자산 +2.12조/부채 +2.04조) — 원문 부호 그대로(양방향 모두 +),IR
+현대해상,2026-06-30,신계약 CSM(1H),9500.0,억원,https://file.alphasquare.co.kr/media/pdfs/company-ir/20260814%ED%98%84%EB%8C%80%ED%95%B4%EC%83%81_2026%EB%85%84_%EC%83%81%EB%B0%98%EA%B8%B0_%EA%B2%BD%EC%98%81%EC%8B%A4%EC%A0%81_%EB%B0%9C%ED%91%9C.pdf,현대해상 2026년 상반기 경영실적 발표(IR; 제3자 미러 호스팅) p.6 (950.0십억; 1Q 470.3/2Q 479.6),IR
+삼성화재,2026-06-30,기본자본 K-ICS 비율,220.16,%,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r15,IR
+삼성화재,2026-06-30,가용자본,439879.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r6,IR
+삼성화재,2026-06-30,요구자본(지급여력기준금액),155555.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r7,IR
+삼성화재,2026-06-30,기본자본,34.2,조원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI FY26 1H Business Results_F.pdf p.8 막대그래프,IR
+삼성화재,2026-06-30,요구자본-생명장기손해보험위험,73281.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r8 (분산효과 반영 전 여부 미표기),IR
+삼성화재,2026-06-30,요구자본-일반손해보험위험,21737.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r9,IR
+삼성화재,2026-06-30,요구자본-신용위험,22942.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r10,IR
+삼성화재,2026-06-30,요구자본-시장위험,157702.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r11 (삼성전자 등 주식 평가익 반영으로 YTD +77.9%),IR
+삼성화재,2026-06-30,요구자본-운영위험,8044.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r12,IR
+삼성화재,2026-06-30,요구자본-기타,381.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'K-ICS Ratio' r13 (분산효과·법인세조정 별도 미공시; 구성항목 합≠요구자본),IR
+삼성화재,2026-06-30,민감도: 국채금리 +100bp → K-ICS,-7.5,%p,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI FY26 1H Business Results_F.pdf p.8 (26.6말 기준; 국고10년 4.07%),IR
+삼성화재,2026-06-30,민감도: 국채금리 -100bp → K-ICS,7.4,%p,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,FY26 1H pdf p.8,IR
+삼성화재,2026-06-30,CSM 잔액(기말),145947.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'CSM' r13 (재보험 CSM 제외),IR
+삼성화재,2026-06-30,신계약 CSM(1H 누적),12423.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'CSM' r9 YTD,IR
+삼성화재,2026-06-30,운용자산,1111011.0,억원,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'Asset structure' r6 (연결),IR
+삼성화재,2026-06-30,운용자산 비중-주식,33.6,%,https://www.samsungfire.com/vh/page/VH.HPMK0201.do,(KOR) SFMI 26.2Q_F.xlsx 시트 'Asset structure' r25 (373344억; 삼성전자 등),IR
+KB손해보험,2026-06-30,가용자본(지급여력금액),135316.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,기본자본,54815.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,보완자본,80500.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,요구자본(지급여력기준금액),72187.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,기본요구자본,99164.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,분산효과,-37196.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표 (차감항목; 부호 부여),원문
+KB손해보험,2026-06-30,요구자본-생명장기손해보험위험,69561.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,요구자본-일반손해보험위험,10829.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,요구자본-시장위험,34792.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,요구자본-신용위험,15076.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,요구자본-운영위험,6103.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,법인세조정액,-27111.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표 (차감항목; 부호 부여),원문
+KB손해보험,2026-06-30,기타요구자본,133.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) p.18(문서쪽번호) '경과조치 적용 전 지급여력비율 세부' 표,원문
+KB손해보험,2026-06-30,생명장기 하위위험-사망,3222.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (장기손해 열; 분산 전 하위위험액),원문
+KB손해보험,2026-06-30,생명장기 하위위험-장해·질병,38664.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (장기손해 열; 분산 전 하위위험액),원문
+KB손해보험,2026-06-30,생명장기 하위위험-장기재물·기타,1214.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (장기손해 열; 분산 전 하위위험액),원문
+KB손해보험,2026-06-30,생명장기 하위위험-해지,42055.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (장기손해 열; 분산 전 하위위험액),원문
+KB손해보험,2026-06-30,생명장기 하위위험-사업비,13921.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (장기손해 열; 분산 전 하위위험액),원문
+KB손해보험,2026-06-30,생명장기 대재해위험액,2758.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,"KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-2 대재해 표 Ⅲ.총계 275,809백만원",원문
+KB손해보험,2026-06-30,시장 하위위험-금리위험액,10321.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,"KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-4 금리위험액 현황 Ⅳ 1,032,124백만원 (25.4Q 609,449)",원문
+KB손해보험,2026-06-30,시장 하위위험-주식위험액,30435.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,"KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-4 주식위험액 현황 Ⅲ.합계 3,043,506백만원 (첫 표를 당기로 판단)",원문
+KB손해보험,2026-06-30,시장 하위위험-부동산위험액,1361.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,"KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-4 부동산위험액 Ⅲ.합계 136,121백만원",원문
+KB손해보험,2026-06-30,시장 하위위험-외환위험액,8293.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,"KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-4 외환위험액 계 829,305백만원",원문
+KB손해보험,2026-06-30,민감도: 금리 +50bp → K-ICS,-5.12,%p,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-8 위험 민감도(금리) 본문,원문
+KB손해보험,2026-06-30,민감도: 금리 -50bp → K-ICS,4.69,%p,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-8 위험 민감도(금리) 본문,원문
+KB손해보험,2026-06-30,민감도: 금리 +100bp → K-ICS,-10.51,%p,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-8 위험 민감도(금리) 본문,원문
+KB손해보험,2026-06-30,민감도: 금리 -100bp → K-ICS,7.81,%p,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 6-8 위험 민감도(금리) 본문,원문
+KB손해보험,2026-06-30,신계약 CSM(1H),8000.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 2-2 서술 '신계약 0.8조원',원문
+KB손해보험,2026-06-30,운용자산,395000.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 2-2 서술 '운용자산 39.5조원' (원화채무 23.3/원화지분 2.0/외화채무 3.8/대출 10.3조),원문
+DB손해보험,2026-06-30,생명장기 하위위험-사망,6099.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (총계 열 = 생명+장기손해; 분산 전),원문
+DB손해보험,2026-06-30,생명장기 하위위험-장수,190.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (총계 열 = 생명+장기손해; 분산 전),원문
+DB손해보험,2026-06-30,생명장기 하위위험-장해·질병,53762.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (총계 열 = 생명+장기손해; 분산 전),원문
+DB손해보험,2026-06-30,생명장기 하위위험-장기재물·기타,2753.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (총계 열 = 생명+장기손해; 분산 전),원문
+DB손해보험,2026-06-30,생명장기 하위위험-해지,64821.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (총계 열 = 생명+장기손해; 분산 전),원문
+DB손해보험,2026-06-30,생명장기 하위위험-사업비,19037.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) 6-2 '생명·장기손해보험위험액-대재해위험 이외' 표 (총계 열 = 생명+장기손해; 분산 전),원문
+DB손해보험,2026-06-30,생명장기 대재해위험액,1985.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,"2026년 상반기 DB손해보험 현황(정기경영공시) 대재해 표 Ⅲ.총계 198,470백만원",원문
+DB손해보험,2026-06-30,시장 하위위험-금리위험액,15627.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,"2026년 상반기 DB손해보험 현황(정기경영공시) 6-4 금리위험액 Ⅳ 1,562,660백만원",원문
+DB손해보험,2026-06-30,시장 하위위험-주식위험액,33149.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,"2026년 상반기 DB손해보험 현황(정기경영공시) 6-4 주식위험액 Ⅲ.합계 3,314,863백만원",원문
+DB손해보험,2026-06-30,시장 하위위험-부동산위험액,6884.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,"2026년 상반기 DB손해보험 현황(정기경영공시) 6-4 부동산위험액 688,360백만원",원문
+DB손해보험,2026-06-30,시장 하위위험-외환위험액,12809.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,"2026년 상반기 DB손해보험 현황(정기경영공시) 6-4 외환위험액 계 1,280,861백만원",원문
+현대해상,2026-06-30,가용자본(지급여력금액),153285.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,기본자본,61458.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,보완자본,91826.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,요구자본(지급여력기준금액),73335.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,기본요구자본,99205.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,분산효과,-35999.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부' (차감항목; 부호 부여),원문
+현대해상,2026-06-30,요구자본-생명장기손해보험위험,73580.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,요구자본-일반손해보험위험,12306.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,요구자본-시장위험,29618.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,요구자본-신용위험,13763.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,요구자본-운영위험,5938.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,법인세조정액,-26101.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부' (차감항목; 부호 부여),원문
+현대해상,2026-06-30,기타요구자본,231.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.19 '경과조치 적용 전 지급여력비율 세부',원문
+현대해상,2026-06-30,생명장기 하위위험-사망,2726.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.22 '생명·장기손해보험위험액-대재해위험 이외' (장기손해; 분산 전; 측정대상부채 26.2Q 15.35조 vs 25.4Q 20.15조),원문
+현대해상,2026-06-30,생명장기 하위위험-장수,11.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.22 '생명·장기손해보험위험액-대재해위험 이외' (장기손해; 분산 전; 측정대상부채 26.2Q 15.35조 vs 25.4Q 20.15조),원문
+현대해상,2026-06-30,생명장기 하위위험-장해·질병,48779.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.22 '생명·장기손해보험위험액-대재해위험 이외' (장기손해; 분산 전; 측정대상부채 26.2Q 15.35조 vs 25.4Q 20.15조),원문
+현대해상,2026-06-30,생명장기 하위위험-장기재물·기타,2407.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.22 '생명·장기손해보험위험액-대재해위험 이외' (장기손해; 분산 전; 측정대상부채 26.2Q 15.35조 vs 25.4Q 20.15조),원문
+현대해상,2026-06-30,생명장기 하위위험-해지,36017.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.22 '생명·장기손해보험위험액-대재해위험 이외' (장기손해; 분산 전; 측정대상부채 26.2Q 15.35조 vs 25.4Q 20.15조),원문
+현대해상,2026-06-30,생명장기 하위위험-사업비,14564.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.22 '생명·장기손해보험위험액-대재해위험 이외' (장기손해; 분산 전; 측정대상부채 26.2Q 15.35조 vs 25.4Q 20.15조),원문
+현대해상,2026-06-30,생명장기 대재해위험액,2824.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,"[현대해상]2026년 상반기 경영공시(최종).pdf p.23 Ⅲ.총계 282,384백만원",원문
+현대해상,2026-06-30,시장 하위위험-금리위험액,7530.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,"[현대해상]2026년 상반기 경영공시(최종).pdf p.34~35 금리위험액 Ⅳ 753,002백만원",원문
+현대해상,2026-06-30,시장 하위위험-주식위험액,23737.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,"[현대해상]2026년 상반기 경영공시(최종).pdf 주식위험액 Ⅲ.합계 2,373,723백만원",원문
+현대해상,2026-06-30,시장 하위위험-부동산위험액,6876.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,"[현대해상]2026년 상반기 경영공시(최종).pdf 부동산위험액 687,556백만원",원문
+현대해상,2026-06-30,시장 하위위험-외환위험액,6622.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,"[현대해상]2026년 상반기 경영공시(최종).pdf 외환위험액 계 662,242백만원",원문
+현대해상,2026-06-30,시장 하위위험-자산집중위험액,0.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf 자산집중위험액 '-',원문
+현대해상,2026-06-30,운용자산,456000.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf 2-2 서술 '운용자산 45.6조원' (채권18.2/주식0.4/부동산1.2/대출9.6/해외채6.3/기타9.8조),원문
+DB손해보험,2026-06-30,가용자본(경과조치 전),235232.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+DB손해보험,2026-06-30,요구자본(경과조치 전),115099.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+DB손해보험,2026-06-30,가용자본(경과조치 후),235232.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+DB손해보험,2026-06-30,요구자본(경과조치 후),115099.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+NH농협손해보험,2026-06-30,가용자본(경과조치 전),26674.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+NH농협손해보험,2026-06-30,요구자본(경과조치 전),13443.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+NH농협손해보험,2026-06-30,가용자본(경과조치 후),27600.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+NH농협손해보험,2026-06-30,요구자본(경과조치 후),10836.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+롯데손해보험,2026-06-30,가용자본(경과조치 전),27377.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+롯데손해보험,2026-06-30,요구자본(경과조치 전),21111.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+롯데손해보험,2026-06-30,가용자본(경과조치 후),27377.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+롯데손해보험,2026-06-30,요구자본(경과조치 후),16907.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+메리츠화재,2026-06-30,가용자본(경과조치 전),145432.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+메리츠화재,2026-06-30,요구자본(경과조치 전),63107.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+메리츠화재,2026-06-30,가용자본(경과조치 후),145432.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+메리츠화재,2026-06-30,요구자본(경과조치 후),63107.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+삼성화재,2026-06-30,가용자본(경과조치 전),439879.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+삼성화재,2026-06-30,요구자본(경과조치 전),155555.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+삼성화재,2026-06-30,가용자본(경과조치 후),439879.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+삼성화재,2026-06-30,요구자본(경과조치 후),155555.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+KB손해보험,2026-06-30,가용자본(경과조치 전),135316.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+KB손해보험,2026-06-30,요구자본(경과조치 전),72187.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+하나손해보험,2026-06-30,가용자본(경과조치 전),7114.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+하나손해보험,2026-06-30,요구자본(경과조치 전),4677.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+하나손해보험,2026-06-30,가용자본(경과조치 후),7114.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+하나손해보험,2026-06-30,요구자본(경과조치 후),4677.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+한화손해보험,2026-06-30,가용자본(경과조치 전),65763.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+한화손해보험,2026-06-30,요구자본(경과조치 전),35597.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+한화손해보험,2026-06-30,가용자본(경과조치 후),65763.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+한화손해보험,2026-06-30,요구자본(경과조치 후),28857.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+현대해상,2026-06-30,가용자본(경과조치 전),153285.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+현대해상,2026-06-30,요구자본(경과조치 전),73335.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+현대해상,2026-06-30,가용자본(경과조치 후),153285.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+현대해상,2026-06-30,요구자본(경과조치 후),73335.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+흥국화재,2026-06-30,가용자본(경과조치 전),35693.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+흥국화재,2026-06-30,요구자본(경과조치 전),22654.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+흥국화재,2026-06-30,가용자본(경과조치 후),35693.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+흥국화재,2026-06-30,요구자본(경과조치 후),17718.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+AXA손해보험,2026-06-30,가용자본(경과조치 전),4036.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+AXA손해보험,2026-06-30,요구자본(경과조치 전),2539.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도) (백만원→억원)",원문(FISIS)
+AXA손해보험,2026-06-30,가용자본(경과조치 후),4036.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+AXA손해보험,2026-06-30,요구자본(경과조치 후),2174.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS 복수통계표 SDSI021V 자본적정성(손해보험, 별도)",원문(FISIS)
+DB손해보험,2026-06-30,CSM 잔액(보험계약부채),87718.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+NH농협손해보험,2026-06-30,CSM 잔액(보험계약부채),16786.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+롯데손해보험,2026-06-30,CSM 잔액(보험계약부채),22285.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+메리츠화재,2026-06-30,CSM 잔액(보험계약부채),86770.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+삼성화재,2026-06-30,CSM 잔액(보험계약부채),145947.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+KB손해보험,2026-06-30,CSM 잔액(보험계약부채),105518.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+하나손해보험,2026-06-30,CSM 잔액(보험계약부채),141.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+한화손해보험,2026-06-30,CSM 잔액(보험계약부채),23294.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+현대해상,2026-06-30,CSM 잔액(보험계약부채),99054.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+흥국화재,2026-06-30,CSM 잔액(보험계약부채),32073.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+AXA손해보험,2026-06-30,CSM 잔액(보험계약부채),0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI152V 책임준비금 적립현황(별도) — 보험계약부채(원수) 블록 첫 항목,원문(FISIS)
+DB손해보험,2026-06-30,후순위채 잔액,9683.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+DB손해보험,2026-06-30,신종자본증권 잔액(자본),17452.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+NH농협손해보험,2026-06-30,후순위채 잔액,2993.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+NH농협손해보험,2026-06-30,신종자본증권 잔액(자본),4500.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+롯데손해보험,2026-06-30,후순위채 잔액,8070.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+롯데손해보험,2026-06-30,신종자본증권 잔액(자본),454.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+메리츠화재,2026-06-30,후순위채 잔액,15878.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+메리츠화재,2026-06-30,신종자본증권 잔액(자본),1792.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+삼성화재,2026-06-30,후순위채 잔액,0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+삼성화재,2026-06-30,신종자본증권 잔액(자본),0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+KB손해보험,2026-06-30,후순위채 잔액,8846.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+KB손해보험,2026-06-30,신종자본증권 잔액(자본),0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+하나손해보험,2026-06-30,후순위채 잔액,0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+하나손해보험,2026-06-30,신종자본증권 잔액(자본),1999.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+한화손해보험,2026-06-30,후순위채 잔액,10973.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+한화손해보험,2026-06-30,신종자본증권 잔액(자본),2341.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+현대해상,2026-06-30,후순위채 잔액,28263.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+현대해상,2026-06-30,신종자본증권 잔액(자본),0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+흥국화재,2026-06-30,후순위채 잔액,3191.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+흥국화재,2026-06-30,신종자본증권 잔액(자본),4113.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+AXA손해보험,2026-06-30,후순위채 잔액,476.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+AXA손해보험,2026-06-30,신종자본증권 잔액(자본),0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI147V 요약재무상태표(부채 및 자본, 별도)",원문(FISIS)
+DB손해보험,2026-06-30,보험수익(누계),78994.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+DB손해보험,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),58.9,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+NH농협손해보험,2026-06-30,보험수익(누계),15311.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+NH농협손해보험,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),33.3,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+롯데손해보험,2026-06-30,보험수익(누계),11051.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+롯데손해보험,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),87.2,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+메리츠화재,2026-06-30,보험수익(누계),49224.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+메리츠화재,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),82.1,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+삼성화재,2026-06-30,보험수익(누계),94268.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+삼성화재,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),55.8,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+KB손해보험,2026-06-30,보험수익(누계),56100.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+KB손해보험,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),60.1,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+하나손해보험,2026-06-30,보험수익(누계),2969.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+하나손해보험,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),46.4,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+한화손해보험,2026-06-30,보험수익(누계),32241.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+한화손해보험,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),68.4,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+현대해상,2026-06-30,보험수익(누계),71896.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+현대해상,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),57.8,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+흥국화재,2026-06-30,보험수익(누계),14752.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+흥국화재,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),89.5,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+AXA손해보험,2026-06-30,보험수익(누계),3980.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26),원문(FISIS)
+AXA손해보험,2026-06-30,GMM/VFA 보험수익 비중(장기보험 비중 대용치),28.8,%,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI150V 요약손익계산서(별도) 누계 (1H26) — GMM·VFA수익/보험수익 계산; 장기≈GMM/VFA, 자동차·일반≈PAA 가정",원문(FISIS 계산)
+NH농협손해보험,2026-06-30,운용자산,111326.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI146V 요약재무상태표(자산-전체, 별도)",원문(FISIS)
+롯데손해보험,2026-06-30,운용자산,127426.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI146V 요약재무상태표(자산-전체, 별도)",원문(FISIS)
+메리츠화재,2026-06-30,운용자산,412862.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI146V 요약재무상태표(자산-전체, 별도)",원문(FISIS)
+한화손해보험,2026-06-30,운용자산,179405.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI146V 요약재무상태표(자산-전체, 별도)",원문(FISIS)
+흥국화재,2026-06-30,운용자산,108886.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI146V 요약재무상태표(자산-전체, 별도)",원문(FISIS)
+AXA손해보험,2026-06-30,운용자산,5402.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,"FISIS SDSI146V 요약재무상태표(자산-전체, 별도)",원문(FISIS)
+DB손해보험,2026-06-30,금리 민감도 가용자본 @ -100bp,241682.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,금리 민감도 가용자본 @ -50bp,239349.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,금리 민감도 가용자본 @ +50bp,230562.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,금리 민감도 가용자본 @ +100bp,226544.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,금리 민감도 요구자본 @ -100bp,114072.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,금리 민감도 요구자본 @ -50bp,114752.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,금리 민감도 요구자본 @ +50bp,115026.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,금리 민감도 요구자본 @ +100bp,115049.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 가용자본 @ -100bp,142859.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 가용자본 @ -50bp,139638.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 가용자본 @ +50bp,130950.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 가용자본 @ +100bp,126669.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 요구자본 @ -100bp,73164.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 요구자본 @ -50bp,72674.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 요구자본 @ +50bp,71821.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+KB손해보험,2026-06-30,금리 민감도 요구자본 @ +100bp,71591.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 가용자본 @ -100bp,7528.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 가용자본 @ -50bp,7338.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 가용자본 @ +50bp,6857.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 가용자본 @ +100bp,6563.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 요구자본 @ -100bp,4849.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 요구자본 @ -50bp,4750.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 요구자본 @ +50bp,4623.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+하나손해보험,2026-06-30,금리 민감도 요구자본 @ +100bp,4593.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 가용자본 @ -100bp,154832.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 가용자본 @ -50bp,154055.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 가용자본 @ +50bp,152205.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 가용자본 @ +100bp,149759.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 요구자본 @ -100bp,74050.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 요구자본 @ -50bp,73588.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 요구자본 @ +50bp,72574.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+현대해상,2026-06-30,금리 민감도 요구자본 @ +100bp,72551.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,정기경영공시 6-8-2) 금리 민감도 분석 표 (경과조치 전),원문
+DB손해보험,2026-06-30,CSM 잔액(장기손해보험),128000.0,억원,https://www.idbins.com/pcweb/bizxpress/pb/mp/rg/__etc/2026083101.pdf,2026년 상반기 DB손해보험 현황(정기경영공시) p.6 서술 '보험계약마진 12.8조원' (조원 단위 반올림),원문
+하나손해보험,2026-06-30,CSM 잔액(장기 보험부채 서술),2854.0,억원,https://www.hanainsure.co.kr/download/51f05cd7df,하나손해보험 FY2026 2/4분기 경영공시(정기경영공시) 2-2 서술 (BEL 586억/RA 592억); FISIS 보험계약부채 CSM(141억)과 범위 상이,원문
+KB손해보험,2026-06-30,CSM 잔액(장기원수 잔여보장),107000.0,억원,https://www.kbinsure.co.kr/CG801020002.ec?seq=1058,KB손해보험 2026년 2/4분기 경영통일공시(정기경영공시) 2-2 재무정보 요약 서술 '보험계약마진 10.7조원' (반올림),원문
+현대해상,2026-06-30,CSM 잔액(원수·수재 잔여보장),99054.0,억원,https://www.hi.co.kr/FileActionServlet/download/1/data/202608/6b340e3e3a76f01cad7c75cdcf6ac708.pdf/a.pdf,[현대해상]2026년 상반기 경영공시(최종).pdf p.10 합계행,원문
+삼성화재,2025,배당총액(2025),8289.0,억원,https://ceoscoredaily.com/page/view/2026022313194089591,"뉴스(2026-02-25); DPS 보통주 19,500원(IR FY25 주주환원 페이지에도 19,500)",뉴스
+DB손해보험,2025,배당총액(2025),4608.0,억원,https://ceoscoredaily.com/page/view/2026022313194089591,"뉴스; DPS 7,600원; 2024 4,083억",뉴스
+메리츠화재,2025,배당총액(2025),8321.0,억원,https://ceoscoredaily.com/page/view/2026022313194089591,뉴스; 지주(메리츠금융) 100% 자회사 → 지주로 지급; 배당성향 49.5%,뉴스
+현대해상,2025,배당총액(2025),0.0,억원,https://news.bizwatch.co.kr/article/finance/2026/03/18/0022,"뉴스(비즈워치 2026-03-18) 무배당; 자사주 소각 약 2,852억 계획",뉴스
+한화손해보험,2025,배당총액(2025),0.0,억원,https://news.bizwatch.co.kr/article/finance/2026/03/18/0022,뉴스 무배당,뉴스
+롯데손해보험,2025,배당총액(2025),0.0,억원,https://news.bizwatch.co.kr/article/finance/2026/03/18/0022,뉴스 무배당,뉴스
+삼성화재,2025-12-31,당기순이익(2025),16908.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+삼성화재,2026-06-30,당기순이익(2026 1H),12534.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+DB손해보험,2025-12-31,당기순이익(2025),15348.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+DB손해보험,2026-06-30,당기순이익(2026 1H),9796.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+현대해상,2025-12-31,당기순이익(2025),5611.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+현대해상,2026-06-30,당기순이익(2026 1H),6151.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+KB손해보험,2025-12-31,당기순이익(2025),7810.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+KB손해보험,2026-06-30,당기순이익(2026 1H),4990.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+메리츠화재,2025-12-31,당기순이익(2025),16810.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+메리츠화재,2026-06-30,당기순이익(2026 1H),10243.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+한화손해보험,2025-12-31,당기순이익(2025),3610.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+한화손해보험,2026-06-30,당기순이익(2026 1H),2153.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+롯데손해보험,2025-12-31,당기순이익(2025),513.3,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+롯데손해보험,2026-06-30,당기순이익(2026 1H),-184.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+흥국화재,2025-12-31,당기순이익(2025),1516.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+흥국화재,2026-06-30,당기순이익(2026 1H),261.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+NH농협손해보험,2025-12-31,당기순이익(2025),824.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+NH농협손해보험,2026-06-30,당기순이익(2026 1H),716.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+하나손해보험,2025-12-31,당기순이익(2025),-349.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+하나손해보험,2026-06-30,당기순이익(2026 1H),-711.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+AXA손해보험,2025-12-31,당기순이익(2025),-337.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202512; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+AXA손해보험,2026-06-30,당기순이익(2026 1H),-52.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI150V 당기순이익(또는당기순손실):누계 [F-id 미기록; FORM SDSI150V 요약손익계산서(전체)]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+삼성화재,2026-06-30,스프레드 민감 운용자산(core),417218.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+DB손해보험,2026-06-30,스프레드 민감 운용자산(core),302661.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+현대해상,2026-06-30,스프레드 민감 운용자산(core),208283.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+KB손해보험,2026-06-30,스프레드 민감 운용자산(core),184118.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+메리츠화재,2026-06-30,스프레드 민감 운용자산(core),226079.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+한화손해보험,2026-06-30,스프레드 민감 운용자산(core),70594.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+롯데손해보험,2026-06-30,스프레드 민감 운용자산(core),68330.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+흥국화재,2026-06-30,스프레드 민감 운용자산(core),45750.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+NH농협손해보험,2026-06-30,스프레드 민감 운용자산(core),37959.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+하나손해보험,2026-06-30,스프레드 민감 운용자산(core),11870.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+AXA손해보험,2026-06-30,스프레드 민감 운용자산(core),3062.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: 특수채+금융채+회사채+외화표시유가증권(146V) + 기업대출(117V−157V),계산
+삼성화재,2026-06-30,신용자산-특수채,79721.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+삼성화재,2026-06-30,신용자산-금융채,21903.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+삼성화재,2026-06-30,신용자산-회사채,72515.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+삼성화재,2026-06-30,신용자산-외화표시유가증권,110541.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+DB손해보험,2026-06-30,신용자산-특수채,16103.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+DB손해보험,2026-06-30,신용자산-금융채,11042.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+DB손해보험,2026-06-30,신용자산-회사채,38948.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+DB손해보험,2026-06-30,신용자산-외화표시유가증권,89582.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+현대해상,2026-06-30,신용자산-특수채,52310.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+현대해상,2026-06-30,신용자산-금융채,3644.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+현대해상,2026-06-30,신용자산-회사채,23361.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+현대해상,2026-06-30,신용자산-외화표시유가증권,74963.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+KB손해보험,2026-06-30,신용자산-특수채,20755.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+KB손해보험,2026-06-30,신용자산-금융채,7723.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+KB손해보험,2026-06-30,신용자산-회사채,29061.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+KB손해보험,2026-06-30,신용자산-외화표시유가증권,38158.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+메리츠화재,2026-06-30,신용자산-특수채,22505.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+메리츠화재,2026-06-30,신용자산-금융채,16640.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+메리츠화재,2026-06-30,신용자산-회사채,18482.3,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+메리츠화재,2026-06-30,신용자산-외화표시유가증권,14440.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+한화손해보험,2026-06-30,신용자산-특수채,18798.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+한화손해보험,2026-06-30,신용자산-금융채,1687.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+한화손해보험,2026-06-30,신용자산-회사채,7473.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+한화손해보험,2026-06-30,신용자산-외화표시유가증권,16594.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+롯데손해보험,2026-06-30,신용자산-특수채,5819.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+롯데손해보험,2026-06-30,신용자산-금융채,13955.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+롯데손해보험,2026-06-30,신용자산-회사채,5805.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+롯데손해보험,2026-06-30,신용자산-외화표시유가증권,22564.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+흥국화재,2026-06-30,신용자산-특수채,6833.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+흥국화재,2026-06-30,신용자산-금융채,872.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+흥국화재,2026-06-30,신용자산-회사채,2919.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+흥국화재,2026-06-30,신용자산-외화표시유가증권,20070.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+NH농협손해보험,2026-06-30,신용자산-특수채,9649.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+NH농협손해보험,2026-06-30,신용자산-금융채,1571.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+NH농협손해보험,2026-06-30,신용자산-회사채,1255.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+NH농협손해보험,2026-06-30,신용자산-외화표시유가증권,7782.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+하나손해보험,2026-06-30,신용자산-특수채,590.5,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+하나손해보험,2026-06-30,신용자산-금융채,4132.4,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+하나손해보험,2026-06-30,신용자산-회사채,1758.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+하나손해보험,2026-06-30,신용자산-외화표시유가증권,255.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+AXA손해보험,2026-06-30,신용자산-특수채,486.3,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 특수채(FVPL+FVOCI+AC) [F000020636+F000020646+F000020655]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+AXA손해보험,2026-06-30,신용자산-금융채,486.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 금융채(FVPL+FVOCI+AC) [F000020637+F000020647+F000020656]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+AXA손해보험,2026-06-30,신용자산-회사채,1324.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 회사채(FVPL+FVOCI+AC) [F000020638+F000020648+F000020657]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+AXA손해보험,2026-06-30,신용자산-외화표시유가증권,766.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,FISIS SDSI146V 외화표시유가증권(FVPL+FVOCI+AC; 채권·주식·펀드 미구분) [F000020640+F000020650+F000020659]; 월=202606; 원단위 백만원→억원,"FISIS(업무보고서, 별도)"
+삼성화재,2026-06-30,신용자산-기업대출,132536.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+DB손해보험,2026-06-30,신용자산-기업대출,146985.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+현대해상,2026-06-30,신용자산-기업대출,54004.8,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+KB손해보험,2026-06-30,신용자산-기업대출,88419.1,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+메리츠화재,2026-06-30,신용자산-기업대출,154011.6,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+한화손해보험,2026-06-30,신용자산-기업대출,26040.3,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+롯데손해보험,2026-06-30,신용자산-기업대출,20185.9,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+흥국화재,2026-06-30,신용자산-기업대출,15054.7,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+NH농협손해보험,2026-06-30,신용자산-기업대출,17699.2,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+하나손해보험,2026-06-30,신용자산-기업대출,5134.3,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산
+AXA손해보험,2026-06-30,신용자산-기업대출,0.0,억원,https://fisis.fss.or.kr/page/fsv201.jsp,파생값: SDSI117V 중소기업+대기업 대출채권 (보험계약대출은 117V·146V 대출채권에 미포함으로 판단: DB 가계 730억<보험계약대출 3.2조; PF·부동산업·부동산담보 기업대출 포함),계산

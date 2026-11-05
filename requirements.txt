@@ -1,0 +1,6 @@
+# Runtime + test dependencies (mirrors environment.yml; tested on Python 3.9 and 3.11)
+numpy
+scipy
+pandas
+pytest
+matplotlib  # figures only (reports/make_figures.py)
